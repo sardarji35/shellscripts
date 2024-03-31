@@ -1,6 +1,7 @@
 #!/bin/bash
 #this is to check if the shell scripts picks up env variables
 echo "This is error script"
+echo "testing 2"
 echo "This is my system path $PATH"
 
 #Set a JDK_HOME env variable
