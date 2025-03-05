@@ -7,5 +7,4 @@ echo "we are adding new line"
 echo "we are add 3 line"
 echo "todya is saturday"
 echo "we are adding this line when we are learning branch"
-echo "ading new line
-"
+echo "ading new line"
